@@ -1,0 +1,65 @@
+.username {
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+input[type=username] {
+
+	padding: 5px;	
+	border-color: blue;
+	border-radius: 30px;
+	width: 150px;
+	height: 20px;
+
+}
+input[type=password] {
+
+	padding: 5px;
+	border-color: blue;
+	border-radius: 30px;
+	width: 150px;
+	height: 20px;
+}
+.password {
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.img-container {
+
+	text-align: center;
+}
+h1 {
+
+	text-align: center;
+	color: red;
+	font-size: 30px;
+	font-weight: bolder;
+	font-family: sans-serif;
+}
+
+
+
+.button {
+
+	text-align: center;
+	
+
+}
+
+
+
+.checkbox {
+	text-align: center;
+}
+
+body {
+
+	background-image: url('mount.jpg');
+}
